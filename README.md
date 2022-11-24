@@ -1,6 +1,7 @@
 # p.c
 
-Para copiar o codigo
+Para copiar o codigo  em HTML:
+
 ```
 <html>
  <h1>Meu primeiro arquivo HTML</h1>
